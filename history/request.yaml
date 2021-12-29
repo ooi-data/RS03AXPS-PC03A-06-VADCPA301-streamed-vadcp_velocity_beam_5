@@ -1,5 +1,5 @@
-data_ready: false
+data_ready: true
 data_stream: RS03AXPS-PC03A-06-VADCPA301-streamed-vadcp_velocity_beam_5
 last_request: '2021-12-28T22:52:04.508164Z'
 response: https://raw.githubusercontent.com/ooi-data/RS03AXPS-PC03A-06-VADCPA301-streamed-vadcp_velocity_beam_5/main/history/response.json
-status: pending
+status: success
